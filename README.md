@@ -11,7 +11,7 @@
 <img src="photo.png" alt="My Photo" height="200">
 
 
-Hi there! I am currently working at [Kyutai](kyutai.org) (a non-profit open-research lab) as a Technical Staff.
+Hi there! I am currently working at [Kyutai](https://kyutai.org) (a non-profit open-research lab) as a Technical Staff.
 
 Before, I was a Research Scientist at Google DeepMind (coming from Google Brain) and worked as a Research Engineer at Facebook AI Research (FAIR).
 
