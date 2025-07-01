@@ -19,6 +19,7 @@ My current research is focused on **speech and speech-text LLMs**. I co-first-au
 Fast-forward a few short years and this idea became one of the mainstream approaches for generative audio and ended up powering speech capabilities of the modern industrial-scale LLMs such as Gemini.
 
 Other interesting speech-related projects I worked on:
+* Kyutai STT [[project page]](https://kyutai.org/next/stt)
 * SPEAR-TTS [[demo]](https://google-research.github.io/seanet/speartts/examples/) [[paper]](https://arxiv.org/abs/2302.03540)
 * AudioLM [[demo]](https://google-research.github.io/seanet/audiolm/examples/) [[paper]](https://arxiv.org/abs/2209.03143)
 * SoundStorm [[demo]](https://google-research.github.io/seanet/soundstorm/examples/) [[paper]](https://arxiv.org/abs/2305.09636)
