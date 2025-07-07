@@ -9,7 +9,7 @@ Building useful AI that speaks and listens.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/n0mad_0)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eugene-kharitonov)
 
-<img src="photo.png" alt="My Photo" height="100">
+<img src="photo.png" alt="My Photo" height="200">
 
 
 Hi there! I am currently working at [Kyutai](https://kyutai.org) (a non-profit AI research lab) as a Member of Technical Staff.
